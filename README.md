@@ -24,8 +24,6 @@ A Python script that converts a **monthly utility bill** for a school into **hou
 ## Installation
 
 ```bash
-pip install -r requirements.txt
-# or
 pip install requests pandas matplotlib meteostat pytz
 ```
 
